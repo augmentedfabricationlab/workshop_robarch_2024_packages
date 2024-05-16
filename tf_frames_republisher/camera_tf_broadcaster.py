@@ -13,13 +13,13 @@ broadcaster = tf.TransformBroadcaster()
 rate = rospy.Rate(10.0)
 
 #Robarch
-# x = -0.01725
-# y = -0.0540
-# z = 0.069245
-# qx = 0
-# qy = 0
-# qz = 0
-# qw = 1
+x = -0.01725
+y = -0.0540
+z = 0.069245
+qx = 0
+qy = 0
+qz = 0
+qw = 1
 
 # x =  -0.101561973284
 # y =  0.0274660515163
@@ -40,13 +40,13 @@ rate = rospy.Rate(10.0)
 # qw = 0.629026149522
 
 # From rhino
-x = -0.0532
-y = 0.0175
-z = 0.0612
-qx = 0.354
-qy = -0.354
-qz = -0.612
-qw = 0.612
+# x = -0.0532
+# y = 0.0175
+# z = 0.0612
+# qx = 0.354
+# qy = -0.354
+# qz = -0.612
+# qw = 0.612
 
 #park
 # translation: 
